@@ -1,0 +1,21 @@
+12/25/2022 06:03:08 AM - INFO - [*] Listening as 127.0.0.1:65433
+12/25/2022 06:03:09 AM - INFO - [+] ('127.0.0.1', 34560) is connected.
+12/25/2022 06:03:09 AM - INFO - [*] Listening as 127.0.0.1:65433
+12/25/2022 06:03:10 AM - INFO - [+] ('127.0.0.1', 34570) is connected.
+12/25/2022 06:03:10 AM - INFO - [*] Listening as 127.0.0.1:65433
+12/25/2022 06:03:12 AM - INFO - receiving expresion from client on port 34570
+12/25/2022 06:03:12 AM - INFO - exprission: 7+3
+12/25/2022 06:03:12 AM - INFO - result: 10
+12/25/2022 06:03:18 AM - INFO - receiving expresion from client on port 34560
+12/25/2022 06:03:18 AM - INFO - exprission: 6+4
+12/25/2022 06:03:18 AM - INFO - result: 10
+12/25/2022 06:03:20 AM - INFO - receiving expresion from client on port 34570
+12/25/2022 06:03:20 AM - INFO - exprission: 9-2
+12/25/2022 06:03:20 AM - INFO - result: 7
+12/25/2022 06:03:26 AM - INFO - receiving expresion from client on port 34570
+12/25/2022 06:03:26 AM - INFO - exprission: exp(1)
+12/25/2022 06:03:26 AM - INFO - result: 2.72
+12/25/2022 06:03:31 AM - INFO - receiving expresion from client on port 34560
+12/25/2022 06:03:31 AM - INFO - exprission: sin(pi/6)
+12/25/2022 06:03:31 AM - INFO - result: 0.5
+12/25/2022 06:03:34 AM - ERROR - 

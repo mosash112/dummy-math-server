@@ -2,9 +2,10 @@ from math import *
 
 def function_creator(expr):
     # expr = expr.replace(" ","")
-    print("expr = "+expr)
-    y = eval(expr, {}, safe_dict)
-    print("result = {}".format(y))
+    try:
+        y = round(eval(expr, {}, safe_dict),2)
+    except Exception:
+        y = "Error"
     return y
 
 safe_list = ['acos', 'asin', 'atan', 'atan2', 'ceil', 'cos',
